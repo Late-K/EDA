@@ -3,6 +3,7 @@
 This is a EDA using the Pokemon data API created as part of "DATA PROGRAMMING FOR ARTIFICIAL INTELLIGENCE" module at uni
 
 Brief
+
 Coursework 2 - Exploring data
 The assessment is available as a Jupyter notebook with task specifications. 
 Coursework 2 [50%]
